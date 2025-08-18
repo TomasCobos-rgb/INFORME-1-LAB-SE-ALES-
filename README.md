@@ -17,11 +17,11 @@ Para el desarrollo de esta parte se utilizó la señal fisiológica proveniente 
 2. plt.xlabel() y plt.ylabel() : Colocan etiquetas en los ejes.
 3. plt.axis() :Ajusta los límites de los ejes.
 4. plt.grid() :Encargada de activar la cuadrícula para el gráfico.
-
+### CÓDIGO
 ![LIBRERIA WFDB](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/main/LIBRERIA%20DE%20WFDB%20EXTRACCION%20SE%C3%91AL%20.png?raw=true)
 
-*USO DE LIBRERIA WFDB Y PLT: Codigo para generar gráfica*
-
+*USO DE LIBRERIA WFDB Y PLT: CÓdigo para generar gráfica*
+### GRÁFICA SEÑAL ECG
 ![ECG](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/main/IMAGEN%20ELECTRO%20FISIONET.png?raw=true)
 
 *SEÑAL ECG: Señal extraida desde Physionet*
