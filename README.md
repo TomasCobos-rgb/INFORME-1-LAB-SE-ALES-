@@ -25,6 +25,7 @@ Para el desarrollo de esta parte se utilizó la señal fisiológica proveniente 
 ![ECG](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/main/IMAGEN%20ELECTRO%20FISIONET.png?raw=true)
 
 *SEÑAL ECG: Señal extraida desde Physionet*
+
 Luego de esto se desarrolló el calculo de los **estadísticos descriptivos** de dos formas:
 1. Manualmente.
 2. Usando funciones predefinidas de librerias. 
