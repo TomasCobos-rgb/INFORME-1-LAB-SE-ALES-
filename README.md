@@ -28,4 +28,6 @@ Para el desarrollo de esta parte se utilizó la señal fisiológica proveniente 
 
 Luego de esto se desarrolló el calculo de los **estadísticos descriptivos** de dos formas:
 1. Manualmente.
-2. Usando funciones predefinidas de librerias. 
+2. Usando funciones predefinidas de librerias.
+   
+[Ver cálculos descriptivos]()
