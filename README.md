@@ -12,4 +12,5 @@ En la primera parte se trabaja con una señal fisiológica obtenida de bases de 
 Los estadísticos a calcular son: media, desviación estándar, varianza, coeficiente de variación, histogramas, función de probabilidad y curtosis.
 
 ![ECG](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/main/IMAGEN%20ELECTRO%20FISIONET.png?raw=true)
+
 *SEÑAL ECG: Señal extraida desde Physionet*
