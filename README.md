@@ -7,3 +7,6 @@ ANÁLISIS ESTADISTICO DE LA SEÑAL
 2. Generar una señal fisiologica (ECG) por medio del uso del generador de señales, capturarla e importarla en python.
 3.  Calcular estadísticos descriptivos con dos métodos (manual y funciones de Python).
 4. Analizar estadísticamente la señal propia y compararla con la importada
+### PARTE A
+En la primera parte se trabaja con una señal fisiológica obtenida de bases de datos como Physionet. La señal se importó en Python y graficó usando librerías como matplotlib. Posteriormente, se calculan estadísticos descriptivos de dos maneras: (1) programando las fórmulas desde cero y (2) empleando funciones predefinidas de Python.
+Los estadísticos a calcular son: media, desviación estándar, varianza, coeficiente de variación, histogramas, función de probabilidad y curtosis.
