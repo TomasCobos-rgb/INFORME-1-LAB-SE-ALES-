@@ -22,7 +22,7 @@ Para el desarrollo de esta parte se utilizó la señal fisiológica proveniente 
 
 *USO DE LIBRERIA WFDB Y PLT: CÓdigo para generar gráfica*
 ### GRÁFICA SEÑAL ECG
-![ECG](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/main/IMAGEN%20ELECTRO%20FISIONET.png?raw=true)
+![ECG](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/main/CARPETA%20IMAGENES/IMAGEN%20ELECTRO%20FISIONET.png?raw=true)
 
 *SEÑAL ECG: Señal extraida desde Physionet*
 
