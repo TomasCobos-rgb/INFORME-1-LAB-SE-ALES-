@@ -10,4 +10,4 @@ ANÁLISIS ESTADISTICO DE LA SEÑAL
 ### PARTE A
 En la primera parte se trabaja con una señal fisiológica obtenida de bases de datos como Physionet. La señal se importó en Python y graficó usando librerías como matplotlib. Posteriormente, se calculan estadísticos descriptivos de dos maneras: (1) programando las fórmulas desde cero y (2) empleando funciones predefinidas de Python.
 Los estadísticos a calcular son: media, desviación estándar, varianza, coeficiente de variación, histogramas, función de probabilidad y curtosis.
-![]()
+![ECG](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/main/IMAGEN%20ELECTRO%20FISIONET.png?raw=true)
