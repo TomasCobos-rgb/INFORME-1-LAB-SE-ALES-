@@ -12,7 +12,7 @@ En la primera parte se trabaja con una señal fisiológica obtenida de bases de 
 Los estadísticos a calcular son: media, desviación estándar, varianza, coeficiente de variación, histogramas, función de probabilidad y curtosis.
 
 ### PROCEDIMIENTO
-Para el desarrollo de esta parte se utilizó la señal fisiológica proveniente de la base de datos de **Physionet**. La señal se descargó en formato .hat y .hea, y se importó a python por medio de la libreria **wfdb**.
+Para el desarrollo de esta parte se utilizó la señal fisiológica proveniente de la base de datos de **Physionet**. La señal se descargó en formato (.hat) y (.hea), se importó a python por medio de la libreria **wfdb**. Ademas para la visualización de la señal se utilizó la libreria **matplotlib**.
 
 ![LIBRERIA WFDB](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/main/LIBRERIA%20DE%20WFDB%20EXTRACCION%20SE%C3%91AL%20.png?raw=true)
 
