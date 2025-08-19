@@ -40,6 +40,8 @@ Para el desarrollo de esta parte se utilizó una señal *(ecg)* generada en el g
 1. Lectura del archivo. Se usa pandas para abrir el .csv, *sep* permite delimitar o separar por medio de la *","*, se nombran las columnas con *time* y *amplitude* y por último se omite la primera fila con *skiprows=1*
 2. Visualización de la señal. Con *Matplotlib* se gráfica la amplitud en funcion del tiempo y se añaden título y etiquetas para cada eje.
 ### CÓDIGO
-![]()
+
+![CODIGO PARA LECTURA ARCHIVO .CSV](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/main/CARPETA%20IMAGENES/CODIGO%20ECG%20DAQ.png?raw=true)
+
 ### GRÁFICA SEÑAL ECG DAQ
 ![]()
