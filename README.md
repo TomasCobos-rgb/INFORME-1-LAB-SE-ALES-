@@ -46,3 +46,6 @@ Para el desarrollo de esta parte se utilizó una señal *(ecg)* generada en el g
 ### GRÁFICA SEÑAL ECG DAQ
 
 ![SEÑAL ECG DAQ](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/main/CARPETA%20IMAGENES/SE%C3%91AL%20ECG%20DAQ.png?raw=true)
+
+Luego de esto se desarolló el cálculo de los **estadísticos descriptivos**:
+[Ver cálculos descriptivos Parte B]()
