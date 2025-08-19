@@ -30,4 +30,4 @@ Luego de esto se desarrolló el calculo de los **estadísticos descriptivos** de
 1. Manualmente.
 2. Usando funciones predefinidas de librerias.
    
-[Ver cálculos descriptivos]()
+[Ver cálculos descriptivos](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/3141668ded5c4e1716253ba7c0ca370a28697c74/CARPETA%20PUNTO%20A/%20estad%C3%ADsticos%20descriptivos/.md)
