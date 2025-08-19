@@ -31,3 +31,15 @@ Luego de esto se desarrolló el calculo de los **estadísticos descriptivos** de
 2. Usando funciones predefinidas de librerias.
    
 [Ver cálculos descriptivos](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/3141668ded5c4e1716253ba7c0ca370a28697c74/CARPETA%20PUNTO%20A/%20estad%C3%ADsticos%20descriptivos/.md)
+
+###PARTE B
+En esta sección se trabajará con una señal fisiológica generada a través de un generador de señales biológicas. La señal fue adquirida mediante un DAQ (Data Acquisition System) y almacenada en formato .csv. Posteriormente, se importará el archivo en Python para su procesamiento, lo que incluye la visualización de la señal y el cálculo de sus estadísticos descriptivos (media, varianza, desviación estándar, entre otros). Finalmente, los resultados serán comparados con los obtenidos en la Parte A, con el fin de analizar las similitudes y diferencias entre ambas etapas del estudio.
+
+###PROCEDIMIENTO 
+Para el desarrollo de esta parte se utilizó una señal *(ecg)* generada en el generador de señales fisiologicas, con el uso de python se pudó analizar e interpretar la señal adquiridad por medio del *DAQ* y almacenada en un archivo *.csv*.
+1. Lectura del archivo. Se usa pandas para abrir el .csv, *sep* permite delimitar o separar por medio de la *","*, se nombran las columnas con *time* y *amplitude* y por último se omite la primera fila con *skiprows=1*
+2. Visualización de la señal. Con *Matplotlib* se gráfica la amplitud en funcion del tiempo y se añaden título y etiquetas para cada eje.
+### CÓDIGO
+![]()
+### GRÁFICA SEÑAL ECG DAQ
+![]()
