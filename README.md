@@ -54,3 +54,8 @@ Luego de esto se desarolló el cálculo de los **estadísticos descriptivos**:
 ### PARTE C
 En esta seccion se tomo la señal del apartado anterior (La señal obtenida del generador de señales) para posteriormente agregarle diferentes tipos de ruido y finalmnete compararlas entre si.
 
+### PROCEDIMIENTO
+Para aplicar diferentes ruidos a una señal primero debemos partir de la base teórica de la relación entre una señal y el ruido (SNR), por ello entraremos a revisar primero conceptos para posteriormente aplicar los siguientes tipos de ruidos:
+1.Ruido gaussiano
+2.Ruido impulso
+3.Ruido tipo artefacto
