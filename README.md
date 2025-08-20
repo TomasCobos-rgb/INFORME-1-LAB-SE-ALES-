@@ -68,6 +68,6 @@ Para aplicar diferentes ruidos a una señal primero debemos partir de la base te
 [Ver señales y cálculos descriptivos Parte C](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/5270844eaf4ab20ae3a52f84c530d15823750b7b/CARPETA%20C/C%C3%81LCULOS%20DESCRIPTIVOS/.md)
 
 Presentado por: 
-Tomás Cobos 
-Sebastián López
+Tomás Cobos -  
+Sebastián López - 
 Isabella Gordillo 
