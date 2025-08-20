@@ -54,6 +54,8 @@ Luego de esto se desarolló el cálculo de los **estadísticos descriptivos**:
 
 [Ver cálculos descriptivos Parte B](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/495b2cebcea90640615d2b3002b7b9e79da3f7d4/CARPETA%20PUNTO%20B/C%C3%81LCULOS%20DESCRIPTIVOS/.md)
 
+[Ver cuadro comparativo](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/main/Cuadro%20comparativo/.md#cuadro-comparativo-de-la-se%C3%B1al-a-y-se%C3%B1al-b)
+
 ### PARTE C
 En esta seccion se tomo la señal del apartado anterior (La señal obtenida del generador de señales) para posteriormente agregarle diferentes tipos de ruido y finalmnete compararlas entre si.
 
@@ -64,3 +66,8 @@ Para aplicar diferentes ruidos a una señal primero debemos partir de la base te
 3.Ruido tipo artefacto
 
 [Ver señales y cálculos descriptivos Parte C](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/5270844eaf4ab20ae3a52f84c530d15823750b7b/CARPETA%20C/C%C3%81LCULOS%20DESCRIPTIVOS/.md)
+
+Presentado por: 
+Tomás Cobos 
+Sebastián López
+Isabella Gordillo 
