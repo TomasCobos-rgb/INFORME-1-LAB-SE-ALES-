@@ -50,3 +50,7 @@ Para el desarrollo de esta parte se utilizó una señal *(ecg)* generada en el g
 Luego de esto se desarolló el cálculo de los **estadísticos descriptivos**:
 
 [Ver cálculos descriptivos Parte B](https://github.com/TomasCobos-rgb/INFORME-1-LAB-SE-ALES-/blob/495b2cebcea90640615d2b3002b7b9e79da3f7d4/CARPETA%20PUNTO%20B/C%C3%81LCULOS%20DESCRIPTIVOS/.md)
+
+### PARTE C
+En esta seccion se tomo la señal del apartado anterior (La señal obtenida del generador de señales) para posteriormente agregarle diferentes tipos de ruido y finalmnete compararlas entre si.
+
